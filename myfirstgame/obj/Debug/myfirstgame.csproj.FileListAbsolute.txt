@@ -1,0 +1,10 @@
+E:\myfirstgame\myfirstgame\bin\Debug\myfirstgame.exe.config
+E:\myfirstgame\myfirstgame\bin\Debug\myfirstgame.exe
+E:\myfirstgame\myfirstgame\bin\Debug\myfirstgame.pdb
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.Form1.resources
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.Properties.Resources.resources
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.csproj.GenerateResource.Cache
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.csproj.CoreCompileInputs.cache
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.exe
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.pdb
+E:\myfirstgame\myfirstgame\obj\Debug\myfirstgame.csprojResolveAssemblyReference.cache
